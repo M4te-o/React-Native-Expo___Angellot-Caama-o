@@ -34,8 +34,8 @@ npm
 
 Clona este repositorio:
 
-git clone https://github.com/TU_USUARIO/TU_REPO.git
-cd TU_REPO
+git clone https://github.com/M4te-o/React-Native-Expo___Angellot-Caama-o.git
+cd react-native-Mateo
 
 Instala las dependencias:
 
